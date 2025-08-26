@@ -31,7 +31,7 @@ Designed with **beginners in mind**: simple, readable, and easy to customize or 
 
 ---
 
-## 🤝 Contributions Welcome!
+## Contributions Welcome!
 
 Want to:
 - Add multiplayer support?
@@ -44,7 +44,7 @@ Feel free to fork the repo and open a pull request.
 
 ---
 
-## 🖼️ Final Result
+## Final Result
 
 The game features a neon board, animated hover effects, and a background straight from a Tokyo night scene:
 
@@ -52,7 +52,7 @@ The game features a neon board, animated hover effects, and a background straigh
 
 ---
 
-## 📁 Assets
+## Assets
 
 - Background: `modern-tokyo.jpg`
 - Screenshot: `x.png`
