@@ -6,7 +6,7 @@ A glowing, Tokyo inspired Tic-Tac-Toe game built using beginner-friendly HTML, C
 
 ---
 
-## 🎯 Goal of the Game
+## Goal of the Game
 
 The classic **Tic-Tac-Toe**:  
 - Two players take turns marking `X` and `O` on a 3×3 grid.
@@ -15,7 +15,7 @@ The classic **Tic-Tac-Toe**:
 
 ---
 
-## 🧠 How It Was Built
+## How It Was Built
 
 This project was created using just **three files**:
 - `index.html` for layout and structure.
@@ -40,7 +40,7 @@ Want to:
 - Add sound effects or themes?
 
 Feel free to fork the repo and open a pull request.  
-**All skill levels welcome.** 🌟
+**All skill levels welcome.** 
 
 ---
 
